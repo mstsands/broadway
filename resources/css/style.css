@@ -4,8 +4,7 @@ body {
 }
 
 p {
-  font-size: 18px;
-  color: white;
+  font-size: 14px;
 }
 
 h1 {
@@ -15,5 +14,17 @@ h1 {
 }
 
 .header {
+  font-size: 18px;
+  color: white;
   background-image: the-flatiron-building.png
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
 }
