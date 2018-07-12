@@ -16,7 +16,7 @@ h1 {
 .header {
   font-size: 18px;
   color: white;
-  background-image: the-flatiron-building.png
+  background-image: url("./resources/images/icons/the-flatiron-building.png");
 }
 
 h2 {
@@ -27,4 +27,11 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+
+.designed {
+  font-weight: bold;
+  color: white;
+  font-size: 23px;
+  background-image: url("./resources/images/icons/the-flatiron-building.png");
 }
