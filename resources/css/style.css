@@ -14,7 +14,7 @@ h1 {
 }
 
 .header {
-  background-image: url('C:/Users/Tsands/Documents/Projects/Broadway/resources/images/icons/the-flatiron-building.png');
+  background-image: url("C:/Users/Tsands/Documents/Projects/Broadway/resources/images/icons/the-flatiron-building.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -40,4 +40,11 @@ h3 {
 a {
   font-size: 18px;
   color: white;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
 }
